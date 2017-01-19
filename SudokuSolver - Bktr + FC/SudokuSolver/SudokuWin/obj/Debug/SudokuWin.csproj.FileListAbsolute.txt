@@ -1,0 +1,10 @@
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\bin\Debug\SudokuWin.exe
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\bin\Debug\SudokuWin.pdb
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\bin\Debug\SudokuSolverCSharp.dll
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\bin\Debug\SudokuSolverCSharp.pdb
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\obj\Debug\SudokuWin.csprojResolveAssemblyReference.cache
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\obj\Debug\SudokuWin.MainForm.resources
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\obj\Debug\SudokuWin.Properties.Resources.resources
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\obj\Debug\SudokuWin.csproj.GenerateResource.Cache
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\obj\Debug\SudokuWin.exe
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuWin\obj\Debug\SudokuWin.pdb

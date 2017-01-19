@@ -1,0 +1,5 @@
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuSolverCSharp\bin\Debug\SudokuSolverCSharp.dll
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuSolverCSharp\bin\Debug\SudokuSolverCSharp.pdb
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuSolverCSharp\obj\Debug\SudokuSolverCSharp.csprojResolveAssemblyReference.cache
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuSolverCSharp\obj\Debug\SudokuSolverCSharp.dll
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver - Bktr + FC\SudokuSolver\SudokuSolverCSharp\obj\Debug\SudokuSolverCSharp.pdb
