@@ -1,0 +1,42 @@
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\MainWindow.g.cs
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\App.g.cs
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver_MarkupCompile.cache
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver_MarkupCompile.lref
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\MainWindow.baml
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.g.resources
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.Cache
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+G:\Work\Facultate\Analiza experimentala a algoritmilor\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\MainWindow.g.cs
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\App.g.cs
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver_MarkupCompile.cache
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver_MarkupCompile.lref
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\MainWindow.baml
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.g.resources
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+D:\Lucru\Facultate\Master 1\AEA\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.Cache
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\MainWindow.g.cs
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\App.g.cs
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver_MarkupCompile.cache
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver_MarkupCompile.lref
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\MainWindow.baml
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.g.resources
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+G:\Work\Facultate\Analiza experimentala a algoritmilor\Aea Git\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.Cache
